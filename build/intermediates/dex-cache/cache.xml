@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="54a122d7821427a825ac34326d04a55f7a6f1002">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/build/intermediates/pre-dexed/debug/unity-classes_ec0ffa609311eb3a0838e1c8c7068aac5841a1e2.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/libs/unityvractivity.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c19a32b0b1074346368f1012b5606d794e6eeb3">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/build/intermediates/pre-dexed/debug/unityvractivity_9ecc550147e5cfd946bd7d3d589ef3ab44716dce.jar" />
+    </item>
+
+</items>

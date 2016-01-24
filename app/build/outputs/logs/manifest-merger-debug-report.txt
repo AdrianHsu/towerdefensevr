@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:1-42:12
+	xmlns:android
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:11-69
+	package
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:120-153
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:70-95
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:96-119
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:17:154-194
+application
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:3-29:17
+	android:label
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:50-82
+	android:debuggable
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:83-109
+	android:icon
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:16-49
+	android:isGame
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:110-131
+	android:banner
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:18:132-169
+activity#com.google.unity.GoogleUnityActivity
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:5-27:16
+	android:screenOrientation
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:100-143
+	android:label
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:67-99
+	android:configChanges
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:176-333
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:15-66
+	android:launchMode
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:19:144-175
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER+com.google.intent.category.CARDBOARD
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:20:7-25:23
+action#android.intent.action.MAIN
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:21:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:22:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:23:9-73
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:23:19-70
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:24:9-78
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:24:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:26:7-82
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:26:18-58
+	android:value
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:26:59-79
+meta-data#IMMERSIVE_MODE
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:28:16-45
+	android:value
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:28:46-66
+uses-sdk
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:31:3-72
+	android:targetSdkVersion
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:31:40-69
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:31:13-39
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:32:3-52
+	android:glEsVersion
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:32:17-49
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:33:3-96
+	android:required
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:33:70-93
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:33:17-69
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:34:3-92
+	android:required
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:34:66-89
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:34:17-65
+uses-permission#android.permission.NFC
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:35:3-60
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:35:20-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:36:3-78
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:36:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:37:3-79
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:37:20-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:38:3-65
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:38:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:39:3-88
+	android:required
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:39:61-85
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:39:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:40:3-99
+	android:required
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:40:72-96
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:40:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:41:3-108
+	android:required
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:41:81-105
+	android:name
+		ADDED from /Users/AdrianHsu/Google_Drive/Winter_2016/towerdefensevr/app/src/main/AndroidManifest.xml:41:17-80
